@@ -37,7 +37,7 @@ require (
 	github.com/miekg/dns v1.1.31 // indirect
 	github.com/multiformats/go-multiaddr v0.3.1
 	github.com/multiformats/go-multiaddr-dns v0.2.0
-	github.com/multiformats/go-multistream v0.1.2
+	github.com/multiformats/go-multistream v0.1.3-0.20201027223914-4e0841981936
 	github.com/onsi/ginkgo v1.12.1 // indirect
 	github.com/stretchr/testify v1.6.1
 	github.com/whyrusleeping/mdns v0.0.0-20190826153040-b9b60ed33aa9
